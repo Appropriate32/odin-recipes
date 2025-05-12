@@ -1,1 +1,2 @@
 # odin-recipes
+This project is supposed to be about a basic recipes website. It should help polish my HTML skills. I will come back to this , to style it with CSS. For now, my goal is to get better at HTML.
